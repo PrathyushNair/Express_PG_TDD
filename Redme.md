@@ -1,3 +1,46 @@
+
+Folder structure:
+
+.
+└── src
+    ├── databaseHelpers
+    │   ├── migrations
+    │   │   ├── timestampedMigrationFile.js
+    │   │   └── timestampedMigrationFile.ts
+    │   ├── seeds
+    │   │   ├── people.js
+    │   │   └── people.ts
+    │   ├── connection.js
+    │   ├── connection.ts
+    │   ├── knexfile.js
+    │   └── knexfile.ts
+    ├── modules
+    │   └── user
+    │       ├── controller
+    │       │   ├── userOperatiions.controller.js
+    │       │   ├── userOperations.controller.ts
+    │       │   └── userOperations.test.ts
+    │       ├── repository
+    │       │   ├── user.repository.js
+    │       │   └── user.repository.ts
+    │       └── service
+    │           ├── user.service.js
+    │           └── user.service.ts
+    ├── app.js
+    ├── app.ts
+    ├── server.js
+    ├── server.ts
+    ├── jest.config.ts
+    ├── jest.setup.ts
+    ├── package-lock.json
+    ├── package.json
+    ├── Readme.md
+    └── tsconfig.json
+
+
+
+
+
 Typescript starting;
 Run command
 npm install express 
