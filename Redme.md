@@ -49,9 +49,9 @@ npm install --save-dev typescript nodemon @types/node @types/express
 In Package.json add
 1) "main": "src/server.ts"
 2) "scripts": {
+ "test": "jest --watchAll --detectOpenHandles --coverage",
     "build": "tsc",
-    "start": "tsc & node .",
-    "dev": "tsc -w & nodemon ./src/server",
+    "start": "tsc -w & nodemon ./src/server"
     }
 
 Run npx tsc --init for ts config file.

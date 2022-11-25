@@ -922,3 +922,329 @@
 {"name":"my_App","hostname":"Prathyushs-MacBook-Pro.local","pid":40388,"level":30,"msg":"content type json received","time":"2022-11-25T03:57:58.565Z","v":0}
 {"name":"my_App","hostname":"Prathyushs-MacBook-Pro.local","pid":40388,"level":30,"msg":"content type json received","time":"2022-11-25T03:58:04.566Z","v":0}
 {"name":"my_App","hostname":"Prathyushs-MacBook-Pro.local","pid":40388,"level":30,"msg":"content type json received","time":"2022-11-25T03:58:09.589Z","v":0}
+{"name":"my_App","hostname":"Prathyushs-MacBook-Pro.local","pid":5130,"level":30,"msg":"content type json received","time":"2022-11-25T04:07:40.810Z","v":0}
+{"name":"my_App","hostname":"Prathyushs-MacBook-Pro.local","pid":5130,"level":30,"msg":"content type json received","time":"2022-11-25T04:07:40.821Z","v":0}
+{"name":"my_App","hostname":"Prathyushs-MacBook-Pro.local","pid":5130,"level":30,"msg":"content type json received","time":"2022-11-25T04:07:40.837Z","v":0}
+{"name":"my_App","hostname":"Prathyushs-MacBook-Pro.local","pid":5130,"level":40,"msg":"content type error","time":"2022-11-25T04:07:40.848Z","v":0}
+{"name":"my_App","hostname":"Prathyushs-MacBook-Pro.local","pid":5130,"level":30,"msg":"content type json received","time":"2022-11-25T04:08:19.658Z","v":0}
+{"name":"my_App","hostname":"Prathyushs-MacBook-Pro.local","pid":5130,"level":30,"msg":"content type json received","time":"2022-11-25T04:08:19.667Z","v":0}
+{"name":"my_App","hostname":"Prathyushs-MacBook-Pro.local","pid":5130,"level":30,"msg":"content type json received","time":"2022-11-25T04:08:19.682Z","v":0}
+{"name":"my_App","hostname":"Prathyushs-MacBook-Pro.local","pid":5130,"level":40,"msg":"content type error","time":"2022-11-25T04:08:19.693Z","v":0}
+{"name":"my_App","hostname":"Prathyushs-MacBook-Pro.local","pid":5130,"level":30,"msg":"content type json received","time":"2022-11-25T04:08:21.755Z","v":0}
+{"name":"my_App","hostname":"Prathyushs-MacBook-Pro.local","pid":5130,"level":30,"msg":"content type json received","time":"2022-11-25T04:08:21.767Z","v":0}
+{"name":"my_App","hostname":"Prathyushs-MacBook-Pro.local","pid":5130,"level":30,"msg":"content type json received","time":"2022-11-25T04:08:21.780Z","v":0}
+{"name":"my_App","hostname":"Prathyushs-MacBook-Pro.local","pid":5130,"level":40,"msg":"content type error","time":"2022-11-25T04:08:21.790Z","v":0}
+{"name":"my_App","hostname":"Prathyushs-MacBook-Pro.local","pid":5130,"level":30,"msg":"content type json received","time":"2022-11-25T04:08:23.817Z","v":0}
+{"name":"my_App","hostname":"Prathyushs-MacBook-Pro.local","pid":5130,"level":30,"msg":"content type json received","time":"2022-11-25T04:08:23.828Z","v":0}
+{"name":"my_App","hostname":"Prathyushs-MacBook-Pro.local","pid":5130,"level":30,"msg":"content type json received","time":"2022-11-25T04:08:23.841Z","v":0}
+{"name":"my_App","hostname":"Prathyushs-MacBook-Pro.local","pid":5130,"level":40,"msg":"content type error","time":"2022-11-25T04:08:23.849Z","v":0}
+{"name":"my_App","hostname":"Prathyushs-MacBook-Pro.local","pid":5130,"level":30,"msg":"content type json received","time":"2022-11-25T04:08:25.716Z","v":0}
+{"name":"my_App","hostname":"Prathyushs-MacBook-Pro.local","pid":5130,"level":30,"msg":"content type json received","time":"2022-11-25T04:08:25.728Z","v":0}
+{"name":"my_App","hostname":"Prathyushs-MacBook-Pro.local","pid":5130,"level":30,"msg":"content type json received","time":"2022-11-25T04:08:25.741Z","v":0}
+{"name":"my_App","hostname":"Prathyushs-MacBook-Pro.local","pid":5130,"level":40,"msg":"content type error","time":"2022-11-25T04:08:25.751Z","v":0}
+{"name":"my_App","hostname":"Prathyushs-MacBook-Pro.local","pid":5130,"level":30,"msg":"content type json received","time":"2022-11-25T04:08:30.682Z","v":0}
+{"name":"my_App","hostname":"Prathyushs-MacBook-Pro.local","pid":5130,"level":30,"msg":"content type json received","time":"2022-11-25T04:08:30.702Z","v":0}
+{"name":"my_App","hostname":"Prathyushs-MacBook-Pro.local","pid":5130,"level":30,"msg":"content type json received","time":"2022-11-25T04:08:30.732Z","v":0}
+{"name":"my_App","hostname":"Prathyushs-MacBook-Pro.local","pid":5130,"level":40,"msg":"content type error","time":"2022-11-25T04:08:30.752Z","v":0}
+{"name":"my_App","hostname":"Prathyushs-MacBook-Pro.local","pid":5130,"level":30,"msg":"content type json received","time":"2022-11-25T04:08:34.968Z","v":0}
+{"name":"my_App","hostname":"Prathyushs-MacBook-Pro.local","pid":5130,"level":30,"msg":"content type json received","time":"2022-11-25T04:08:34.993Z","v":0}
+{"name":"my_App","hostname":"Prathyushs-MacBook-Pro.local","pid":5130,"level":30,"msg":"content type json received","time":"2022-11-25T04:08:35.021Z","v":0}
+{"name":"my_App","hostname":"Prathyushs-MacBook-Pro.local","pid":5130,"level":40,"msg":"content type error","time":"2022-11-25T04:08:35.029Z","v":0}
+{"name":"my_App","hostname":"Prathyushs-MacBook-Pro.local","pid":5130,"level":30,"msg":"content type json received","time":"2022-11-25T04:08:37.688Z","v":0}
+{"name":"my_App","hostname":"Prathyushs-MacBook-Pro.local","pid":5130,"level":30,"msg":"content type json received","time":"2022-11-25T04:08:37.699Z","v":0}
+{"name":"my_App","hostname":"Prathyushs-MacBook-Pro.local","pid":5130,"level":30,"msg":"content type json received","time":"2022-11-25T04:08:37.711Z","v":0}
+{"name":"my_App","hostname":"Prathyushs-MacBook-Pro.local","pid":5130,"level":40,"msg":"content type error","time":"2022-11-25T04:08:37.720Z","v":0}
+{"name":"my_App","hostname":"Prathyushs-MacBook-Pro.local","pid":5130,"level":30,"msg":"content type json received","time":"2022-11-25T04:08:44.385Z","v":0}
+{"name":"my_App","hostname":"Prathyushs-MacBook-Pro.local","pid":5130,"level":30,"msg":"content type json received","time":"2022-11-25T04:08:44.409Z","v":0}
+{"name":"my_App","hostname":"Prathyushs-MacBook-Pro.local","pid":5130,"level":30,"msg":"content type json received","time":"2022-11-25T04:08:44.435Z","v":0}
+{"name":"my_App","hostname":"Prathyushs-MacBook-Pro.local","pid":5130,"level":40,"msg":"content type error","time":"2022-11-25T04:08:44.458Z","v":0}
+{"name":"my_App","hostname":"Prathyushs-MacBook-Pro.local","pid":5130,"level":30,"msg":"content type json received","time":"2022-11-25T04:08:46.095Z","v":0}
+{"name":"my_App","hostname":"Prathyushs-MacBook-Pro.local","pid":5130,"level":30,"msg":"content type json received","time":"2022-11-25T04:08:46.107Z","v":0}
+{"name":"my_App","hostname":"Prathyushs-MacBook-Pro.local","pid":5130,"level":30,"msg":"content type json received","time":"2022-11-25T04:08:46.120Z","v":0}
+{"name":"my_App","hostname":"Prathyushs-MacBook-Pro.local","pid":5130,"level":40,"msg":"content type error","time":"2022-11-25T04:08:46.130Z","v":0}
+{"name":"my_App","hostname":"Prathyushs-MacBook-Pro.local","pid":5130,"level":30,"msg":"content type json received","time":"2022-11-25T04:08:47.338Z","v":0}
+{"name":"my_App","hostname":"Prathyushs-MacBook-Pro.local","pid":5130,"level":30,"msg":"content type json received","time":"2022-11-25T04:08:47.349Z","v":0}
+{"name":"my_App","hostname":"Prathyushs-MacBook-Pro.local","pid":5130,"level":30,"msg":"content type json received","time":"2022-11-25T04:08:47.362Z","v":0}
+{"name":"my_App","hostname":"Prathyushs-MacBook-Pro.local","pid":5130,"level":40,"msg":"content type error","time":"2022-11-25T04:08:47.372Z","v":0}
+{"name":"my_App","hostname":"Prathyushs-MacBook-Pro.local","pid":5130,"level":30,"msg":"content type json received","time":"2022-11-25T04:08:48.366Z","v":0}
+{"name":"my_App","hostname":"Prathyushs-MacBook-Pro.local","pid":5130,"level":30,"msg":"content type json received","time":"2022-11-25T04:08:48.375Z","v":0}
+{"name":"my_App","hostname":"Prathyushs-MacBook-Pro.local","pid":5130,"level":30,"msg":"content type json received","time":"2022-11-25T04:08:48.390Z","v":0}
+{"name":"my_App","hostname":"Prathyushs-MacBook-Pro.local","pid":5130,"level":40,"msg":"content type error","time":"2022-11-25T04:08:48.399Z","v":0}
+{"name":"my_App","hostname":"Prathyushs-MacBook-Pro.local","pid":5130,"level":30,"msg":"content type json received","time":"2022-11-25T04:08:51.082Z","v":0}
+{"name":"my_App","hostname":"Prathyushs-MacBook-Pro.local","pid":5130,"level":30,"msg":"content type json received","time":"2022-11-25T04:08:51.094Z","v":0}
+{"name":"my_App","hostname":"Prathyushs-MacBook-Pro.local","pid":5130,"level":30,"msg":"content type json received","time":"2022-11-25T04:08:51.107Z","v":0}
+{"name":"my_App","hostname":"Prathyushs-MacBook-Pro.local","pid":5130,"level":40,"msg":"content type error","time":"2022-11-25T04:08:51.117Z","v":0}
+{"name":"my_App","hostname":"Prathyushs-MacBook-Pro.local","pid":5130,"level":30,"msg":"content type json received","time":"2022-11-25T04:08:55.114Z","v":0}
+{"name":"my_App","hostname":"Prathyushs-MacBook-Pro.local","pid":5130,"level":30,"msg":"content type json received","time":"2022-11-25T04:08:55.133Z","v":0}
+{"name":"my_App","hostname":"Prathyushs-MacBook-Pro.local","pid":5130,"level":30,"msg":"content type json received","time":"2022-11-25T04:08:55.163Z","v":0}
+{"name":"my_App","hostname":"Prathyushs-MacBook-Pro.local","pid":5130,"level":40,"msg":"content type error","time":"2022-11-25T04:08:55.188Z","v":0}
+{"name":"my_App","hostname":"Prathyushs-MacBook-Pro.local","pid":5130,"level":30,"msg":"content type json received","time":"2022-11-25T04:08:59.519Z","v":0}
+{"name":"my_App","hostname":"Prathyushs-MacBook-Pro.local","pid":5130,"level":30,"msg":"content type json received","time":"2022-11-25T04:08:59.542Z","v":0}
+{"name":"my_App","hostname":"Prathyushs-MacBook-Pro.local","pid":5130,"level":30,"msg":"content type json received","time":"2022-11-25T04:08:59.570Z","v":0}
+{"name":"my_App","hostname":"Prathyushs-MacBook-Pro.local","pid":5130,"level":40,"msg":"content type error","time":"2022-11-25T04:08:59.593Z","v":0}
+{"name":"my_App","hostname":"Prathyushs-MacBook-Pro.local","pid":5130,"level":30,"msg":"content type json received","time":"2022-11-25T04:09:02.098Z","v":0}
+{"name":"my_App","hostname":"Prathyushs-MacBook-Pro.local","pid":5130,"level":30,"msg":"content type json received","time":"2022-11-25T04:09:02.109Z","v":0}
+{"name":"my_App","hostname":"Prathyushs-MacBook-Pro.local","pid":5130,"level":30,"msg":"content type json received","time":"2022-11-25T04:09:02.121Z","v":0}
+{"name":"my_App","hostname":"Prathyushs-MacBook-Pro.local","pid":5130,"level":40,"msg":"content type error","time":"2022-11-25T04:09:02.131Z","v":0}
+{"name":"my_App","hostname":"Prathyushs-MacBook-Pro.local","pid":5130,"level":30,"msg":"content type json received","time":"2022-11-25T04:09:03.111Z","v":0}
+{"name":"my_App","hostname":"Prathyushs-MacBook-Pro.local","pid":5130,"level":30,"msg":"content type json received","time":"2022-11-25T04:09:03.122Z","v":0}
+{"name":"my_App","hostname":"Prathyushs-MacBook-Pro.local","pid":5130,"level":30,"msg":"content type json received","time":"2022-11-25T04:09:03.135Z","v":0}
+{"name":"my_App","hostname":"Prathyushs-MacBook-Pro.local","pid":5130,"level":40,"msg":"content type error","time":"2022-11-25T04:09:03.145Z","v":0}
+{"name":"my_App","hostname":"Prathyushs-MacBook-Pro.local","pid":5130,"level":30,"msg":"content type json received","time":"2022-11-25T04:09:04.909Z","v":0}
+{"name":"my_App","hostname":"Prathyushs-MacBook-Pro.local","pid":5130,"level":30,"msg":"content type json received","time":"2022-11-25T04:09:04.920Z","v":0}
+{"name":"my_App","hostname":"Prathyushs-MacBook-Pro.local","pid":5130,"level":30,"msg":"content type json received","time":"2022-11-25T04:09:04.932Z","v":0}
+{"name":"my_App","hostname":"Prathyushs-MacBook-Pro.local","pid":5130,"level":40,"msg":"content type error","time":"2022-11-25T04:09:04.942Z","v":0}
+{"name":"my_App","hostname":"Prathyushs-MacBook-Pro.local","pid":5130,"level":30,"msg":"content type json received","time":"2022-11-25T04:09:14.158Z","v":0}
+{"name":"my_App","hostname":"Prathyushs-MacBook-Pro.local","pid":5130,"level":30,"msg":"content type json received","time":"2022-11-25T04:09:14.168Z","v":0}
+{"name":"my_App","hostname":"Prathyushs-MacBook-Pro.local","pid":5130,"level":30,"msg":"content type json received","time":"2022-11-25T04:09:14.182Z","v":0}
+{"name":"my_App","hostname":"Prathyushs-MacBook-Pro.local","pid":5130,"level":40,"msg":"content type error","time":"2022-11-25T04:09:14.192Z","v":0}
+{"name":"my_App","hostname":"Prathyushs-MacBook-Pro.local","pid":5130,"level":30,"msg":"content type json received","time":"2022-11-25T04:09:27.634Z","v":0}
+{"name":"my_App","hostname":"Prathyushs-MacBook-Pro.local","pid":5130,"level":30,"msg":"content type json received","time":"2022-11-25T04:09:27.645Z","v":0}
+{"name":"my_App","hostname":"Prathyushs-MacBook-Pro.local","pid":5130,"level":30,"msg":"content type json received","time":"2022-11-25T04:09:27.657Z","v":0}
+{"name":"my_App","hostname":"Prathyushs-MacBook-Pro.local","pid":5130,"level":40,"msg":"content type error","time":"2022-11-25T04:09:27.668Z","v":0}
+{"name":"my_App","hostname":"Prathyushs-MacBook-Pro.local","pid":5130,"level":30,"msg":"content type json received","time":"2022-11-25T04:09:34.158Z","v":0}
+{"name":"my_App","hostname":"Prathyushs-MacBook-Pro.local","pid":5130,"level":30,"msg":"content type json received","time":"2022-11-25T04:09:34.168Z","v":0}
+{"name":"my_App","hostname":"Prathyushs-MacBook-Pro.local","pid":5130,"level":30,"msg":"content type json received","time":"2022-11-25T04:09:34.183Z","v":0}
+{"name":"my_App","hostname":"Prathyushs-MacBook-Pro.local","pid":5130,"level":40,"msg":"content type error","time":"2022-11-25T04:09:34.192Z","v":0}
+{"name":"my_App","hostname":"Prathyushs-MacBook-Pro.local","pid":5130,"level":30,"msg":"content type json received","time":"2022-11-25T04:09:35.810Z","v":0}
+{"name":"my_App","hostname":"Prathyushs-MacBook-Pro.local","pid":5130,"level":30,"msg":"content type json received","time":"2022-11-25T04:09:35.821Z","v":0}
+{"name":"my_App","hostname":"Prathyushs-MacBook-Pro.local","pid":5130,"level":30,"msg":"content type json received","time":"2022-11-25T04:09:35.833Z","v":0}
+{"name":"my_App","hostname":"Prathyushs-MacBook-Pro.local","pid":5130,"level":40,"msg":"content type error","time":"2022-11-25T04:09:35.843Z","v":0}
+{"name":"my_App","hostname":"Prathyushs-MacBook-Pro.local","pid":5130,"level":30,"msg":"content type json received","time":"2022-11-25T04:09:38.463Z","v":0}
+{"name":"my_App","hostname":"Prathyushs-MacBook-Pro.local","pid":5130,"level":30,"msg":"content type json received","time":"2022-11-25T04:09:38.474Z","v":0}
+{"name":"my_App","hostname":"Prathyushs-MacBook-Pro.local","pid":5130,"level":30,"msg":"content type json received","time":"2022-11-25T04:09:38.486Z","v":0}
+{"name":"my_App","hostname":"Prathyushs-MacBook-Pro.local","pid":5130,"level":40,"msg":"content type error","time":"2022-11-25T04:09:38.495Z","v":0}
+{"name":"my_App","hostname":"Prathyushs-MacBook-Pro.local","pid":5130,"level":30,"msg":"content type json received","time":"2022-11-25T04:09:45.612Z","v":0}
+{"name":"my_App","hostname":"Prathyushs-MacBook-Pro.local","pid":5130,"level":30,"msg":"content type json received","time":"2022-11-25T04:09:45.632Z","v":0}
+{"name":"my_App","hostname":"Prathyushs-MacBook-Pro.local","pid":5130,"level":30,"msg":"content type json received","time":"2022-11-25T04:09:45.668Z","v":0}
+{"name":"my_App","hostname":"Prathyushs-MacBook-Pro.local","pid":5130,"level":40,"msg":"content type error","time":"2022-11-25T04:09:45.676Z","v":0}
+{"name":"my_App","hostname":"Prathyushs-MacBook-Pro.local","pid":5130,"level":30,"msg":"content type json received","time":"2022-11-25T04:09:48.059Z","v":0}
+{"name":"my_App","hostname":"Prathyushs-MacBook-Pro.local","pid":5130,"level":30,"msg":"content type json received","time":"2022-11-25T04:09:48.071Z","v":0}
+{"name":"my_App","hostname":"Prathyushs-MacBook-Pro.local","pid":5130,"level":30,"msg":"content type json received","time":"2022-11-25T04:09:48.083Z","v":0}
+{"name":"my_App","hostname":"Prathyushs-MacBook-Pro.local","pid":5130,"level":40,"msg":"content type error","time":"2022-11-25T04:09:48.093Z","v":0}
+{"name":"my_App","hostname":"Prathyushs-MacBook-Pro.local","pid":5130,"level":30,"msg":"content type json received","time":"2022-11-25T04:09:58.643Z","v":0}
+{"name":"my_App","hostname":"Prathyushs-MacBook-Pro.local","pid":5130,"level":30,"msg":"content type json received","time":"2022-11-25T04:09:58.655Z","v":0}
+{"name":"my_App","hostname":"Prathyushs-MacBook-Pro.local","pid":5130,"level":30,"msg":"content type json received","time":"2022-11-25T04:09:58.670Z","v":0}
+{"name":"my_App","hostname":"Prathyushs-MacBook-Pro.local","pid":5130,"level":40,"msg":"content type error","time":"2022-11-25T04:09:58.678Z","v":0}
+{"name":"my_App","hostname":"Prathyushs-MacBook-Pro.local","pid":5130,"level":30,"msg":"content type json received","time":"2022-11-25T04:10:01.562Z","v":0}
+{"name":"my_App","hostname":"Prathyushs-MacBook-Pro.local","pid":5130,"level":30,"msg":"content type json received","time":"2022-11-25T04:10:01.573Z","v":0}
+{"name":"my_App","hostname":"Prathyushs-MacBook-Pro.local","pid":5130,"level":30,"msg":"content type json received","time":"2022-11-25T04:10:01.586Z","v":0}
+{"name":"my_App","hostname":"Prathyushs-MacBook-Pro.local","pid":5130,"level":40,"msg":"content type error","time":"2022-11-25T04:10:01.595Z","v":0}
+{"name":"my_App","hostname":"Prathyushs-MacBook-Pro.local","pid":5130,"level":30,"msg":"content type json received","time":"2022-11-25T04:10:04.335Z","v":0}
+{"name":"my_App","hostname":"Prathyushs-MacBook-Pro.local","pid":5130,"level":30,"msg":"content type json received","time":"2022-11-25T04:10:04.347Z","v":0}
+{"name":"my_App","hostname":"Prathyushs-MacBook-Pro.local","pid":5130,"level":30,"msg":"content type json received","time":"2022-11-25T04:10:04.360Z","v":0}
+{"name":"my_App","hostname":"Prathyushs-MacBook-Pro.local","pid":5130,"level":40,"msg":"content type error","time":"2022-11-25T04:10:04.371Z","v":0}
+{"name":"my_App","hostname":"Prathyushs-MacBook-Pro.local","pid":5130,"level":30,"msg":"content type json received","time":"2022-11-25T04:10:06.638Z","v":0}
+{"name":"my_App","hostname":"Prathyushs-MacBook-Pro.local","pid":5130,"level":30,"msg":"content type json received","time":"2022-11-25T04:10:06.649Z","v":0}
+{"name":"my_App","hostname":"Prathyushs-MacBook-Pro.local","pid":5130,"level":30,"msg":"content type json received","time":"2022-11-25T04:10:06.662Z","v":0}
+{"name":"my_App","hostname":"Prathyushs-MacBook-Pro.local","pid":5130,"level":40,"msg":"content type error","time":"2022-11-25T04:10:06.671Z","v":0}
+{"name":"my_App","hostname":"Prathyushs-MacBook-Pro.local","pid":5130,"level":30,"msg":"content type json received","time":"2022-11-25T04:10:13.203Z","v":0}
+{"name":"my_App","hostname":"Prathyushs-MacBook-Pro.local","pid":5130,"level":30,"msg":"content type json received","time":"2022-11-25T04:10:13.227Z","v":0}
+{"name":"my_App","hostname":"Prathyushs-MacBook-Pro.local","pid":5130,"level":30,"msg":"content type json received","time":"2022-11-25T04:10:13.255Z","v":0}
+{"name":"my_App","hostname":"Prathyushs-MacBook-Pro.local","pid":5130,"level":40,"msg":"content type error","time":"2022-11-25T04:10:13.265Z","v":0}
+{"name":"my_App","hostname":"Prathyushs-MacBook-Pro.local","pid":5130,"level":30,"msg":"content type json received","time":"2022-11-25T04:10:15.327Z","v":0}
+{"name":"my_App","hostname":"Prathyushs-MacBook-Pro.local","pid":5130,"level":30,"msg":"content type json received","time":"2022-11-25T04:10:15.338Z","v":0}
+{"name":"my_App","hostname":"Prathyushs-MacBook-Pro.local","pid":5130,"level":30,"msg":"content type json received","time":"2022-11-25T04:10:15.350Z","v":0}
+{"name":"my_App","hostname":"Prathyushs-MacBook-Pro.local","pid":5130,"level":40,"msg":"content type error","time":"2022-11-25T04:10:15.360Z","v":0}
+{"name":"my_App","hostname":"Prathyushs-MacBook-Pro.local","pid":5130,"level":30,"msg":"content type json received","time":"2022-11-25T04:10:19.679Z","v":0}
+{"name":"my_App","hostname":"Prathyushs-MacBook-Pro.local","pid":5130,"level":30,"msg":"content type json received","time":"2022-11-25T04:10:19.700Z","v":0}
+{"name":"my_App","hostname":"Prathyushs-MacBook-Pro.local","pid":5130,"level":30,"msg":"content type json received","time":"2022-11-25T04:10:19.729Z","v":0}
+{"name":"my_App","hostname":"Prathyushs-MacBook-Pro.local","pid":5130,"level":40,"msg":"content type error","time":"2022-11-25T04:10:19.751Z","v":0}
+{"name":"my_App","hostname":"Prathyushs-MacBook-Pro.local","pid":5130,"level":30,"msg":"content type json received","time":"2022-11-25T04:10:28.553Z","v":0}
+{"name":"my_App","hostname":"Prathyushs-MacBook-Pro.local","pid":5130,"level":30,"msg":"content type json received","time":"2022-11-25T04:10:28.564Z","v":0}
+{"name":"my_App","hostname":"Prathyushs-MacBook-Pro.local","pid":5130,"level":30,"msg":"content type json received","time":"2022-11-25T04:10:28.580Z","v":0}
+{"name":"my_App","hostname":"Prathyushs-MacBook-Pro.local","pid":5130,"level":40,"msg":"content type error","time":"2022-11-25T04:10:28.589Z","v":0}
+{"name":"my_App","hostname":"Prathyushs-MacBook-Pro.local","pid":5130,"level":30,"msg":"content type json received","time":"2022-11-25T04:10:43.766Z","v":0}
+{"name":"my_App","hostname":"Prathyushs-MacBook-Pro.local","pid":5130,"level":30,"msg":"content type json received","time":"2022-11-25T04:10:43.778Z","v":0}
+{"name":"my_App","hostname":"Prathyushs-MacBook-Pro.local","pid":5130,"level":30,"msg":"content type json received","time":"2022-11-25T04:10:43.790Z","v":0}
+{"name":"my_App","hostname":"Prathyushs-MacBook-Pro.local","pid":5130,"level":40,"msg":"content type error","time":"2022-11-25T04:10:43.800Z","v":0}
+{"name":"my_App","hostname":"Prathyushs-MacBook-Pro.local","pid":5130,"level":30,"msg":"content type json received","time":"2022-11-25T04:10:44.706Z","v":0}
+{"name":"my_App","hostname":"Prathyushs-MacBook-Pro.local","pid":5130,"level":30,"msg":"content type json received","time":"2022-11-25T04:10:44.718Z","v":0}
+{"name":"my_App","hostname":"Prathyushs-MacBook-Pro.local","pid":5130,"level":30,"msg":"content type json received","time":"2022-11-25T04:10:44.730Z","v":0}
+{"name":"my_App","hostname":"Prathyushs-MacBook-Pro.local","pid":5130,"level":40,"msg":"content type error","time":"2022-11-25T04:10:44.741Z","v":0}
+{"name":"my_App","hostname":"Prathyushs-MacBook-Pro.local","pid":5130,"level":30,"msg":"content type json received","time":"2022-11-25T04:10:51.002Z","v":0}
+{"name":"my_App","hostname":"Prathyushs-MacBook-Pro.local","pid":5130,"level":30,"msg":"content type json received","time":"2022-11-25T04:10:51.024Z","v":0}
+{"name":"my_App","hostname":"Prathyushs-MacBook-Pro.local","pid":5130,"level":30,"msg":"content type json received","time":"2022-11-25T04:10:51.048Z","v":0}
+{"name":"my_App","hostname":"Prathyushs-MacBook-Pro.local","pid":5130,"level":40,"msg":"content type error","time":"2022-11-25T04:10:51.056Z","v":0}
+{"name":"my_App","hostname":"Prathyushs-MacBook-Pro.local","pid":5130,"level":30,"msg":"content type json received","time":"2022-11-25T04:11:13.602Z","v":0}
+{"name":"my_App","hostname":"Prathyushs-MacBook-Pro.local","pid":5130,"level":30,"msg":"content type json received","time":"2022-11-25T04:11:13.613Z","v":0}
+{"name":"my_App","hostname":"Prathyushs-MacBook-Pro.local","pid":5130,"level":30,"msg":"content type json received","time":"2022-11-25T04:11:13.626Z","v":0}
+{"name":"my_App","hostname":"Prathyushs-MacBook-Pro.local","pid":5130,"level":40,"msg":"content type error","time":"2022-11-25T04:11:13.635Z","v":0}
+{"name":"my_App","hostname":"Prathyushs-MacBook-Pro.local","pid":5130,"level":30,"msg":"content type json received","time":"2022-11-25T04:11:15.990Z","v":0}
+{"name":"my_App","hostname":"Prathyushs-MacBook-Pro.local","pid":5130,"level":30,"msg":"content type json received","time":"2022-11-25T04:11:15.999Z","v":0}
+{"name":"my_App","hostname":"Prathyushs-MacBook-Pro.local","pid":5130,"level":30,"msg":"content type json received","time":"2022-11-25T04:11:16.015Z","v":0}
+{"name":"my_App","hostname":"Prathyushs-MacBook-Pro.local","pid":5130,"level":40,"msg":"content type error","time":"2022-11-25T04:11:16.025Z","v":0}
+{"name":"my_App","hostname":"Prathyushs-MacBook-Pro.local","pid":5130,"level":30,"msg":"content type json received","time":"2022-11-25T04:11:18.367Z","v":0}
+{"name":"my_App","hostname":"Prathyushs-MacBook-Pro.local","pid":5130,"level":30,"msg":"content type json received","time":"2022-11-25T04:11:18.379Z","v":0}
+{"name":"my_App","hostname":"Prathyushs-MacBook-Pro.local","pid":5130,"level":30,"msg":"content type json received","time":"2022-11-25T04:11:18.393Z","v":0}
+{"name":"my_App","hostname":"Prathyushs-MacBook-Pro.local","pid":5130,"level":40,"msg":"content type error","time":"2022-11-25T04:11:18.403Z","v":0}
+{"name":"my_App","hostname":"Prathyushs-MacBook-Pro.local","pid":5130,"level":30,"msg":"content type json received","time":"2022-11-25T04:11:28.129Z","v":0}
+{"name":"my_App","hostname":"Prathyushs-MacBook-Pro.local","pid":5130,"level":30,"msg":"content type json received","time":"2022-11-25T04:11:28.141Z","v":0}
+{"name":"my_App","hostname":"Prathyushs-MacBook-Pro.local","pid":5130,"level":30,"msg":"content type json received","time":"2022-11-25T04:11:28.154Z","v":0}
+{"name":"my_App","hostname":"Prathyushs-MacBook-Pro.local","pid":5130,"level":40,"msg":"content type error","time":"2022-11-25T04:11:28.164Z","v":0}
+{"name":"my_App","hostname":"Prathyushs-MacBook-Pro.local","pid":5130,"level":30,"msg":"content type json received","time":"2022-11-25T04:11:34.672Z","v":0}
+{"name":"my_App","hostname":"Prathyushs-MacBook-Pro.local","pid":5130,"level":30,"msg":"content type json received","time":"2022-11-25T04:11:34.682Z","v":0}
+{"name":"my_App","hostname":"Prathyushs-MacBook-Pro.local","pid":5130,"level":30,"msg":"content type json received","time":"2022-11-25T04:11:34.697Z","v":0}
+{"name":"my_App","hostname":"Prathyushs-MacBook-Pro.local","pid":5130,"level":40,"msg":"content type error","time":"2022-11-25T04:11:34.705Z","v":0}
+{"name":"my_App","hostname":"Prathyushs-MacBook-Pro.local","pid":5130,"level":30,"msg":"content type json received","time":"2022-11-25T04:11:37.586Z","v":0}
+{"name":"my_App","hostname":"Prathyushs-MacBook-Pro.local","pid":5130,"level":30,"msg":"content type json received","time":"2022-11-25T04:11:37.597Z","v":0}
+{"name":"my_App","hostname":"Prathyushs-MacBook-Pro.local","pid":5130,"level":30,"msg":"content type json received","time":"2022-11-25T04:11:37.613Z","v":0}
+{"name":"my_App","hostname":"Prathyushs-MacBook-Pro.local","pid":5130,"level":40,"msg":"content type error","time":"2022-11-25T04:11:37.624Z","v":0}
+{"name":"my_App","hostname":"Prathyushs-MacBook-Pro.local","pid":5130,"level":30,"msg":"content type json received","time":"2022-11-25T04:11:52.231Z","v":0}
+{"name":"my_App","hostname":"Prathyushs-MacBook-Pro.local","pid":5130,"level":30,"msg":"content type json received","time":"2022-11-25T04:11:52.242Z","v":0}
+{"name":"my_App","hostname":"Prathyushs-MacBook-Pro.local","pid":5130,"level":30,"msg":"content type json received","time":"2022-11-25T04:11:52.255Z","v":0}
+{"name":"my_App","hostname":"Prathyushs-MacBook-Pro.local","pid":5130,"level":40,"msg":"content type error","time":"2022-11-25T04:11:52.264Z","v":0}
+{"name":"my_App","hostname":"Prathyushs-MacBook-Pro.local","pid":5130,"level":30,"msg":"content type json received","time":"2022-11-25T04:11:56.909Z","v":0}
+{"name":"my_App","hostname":"Prathyushs-MacBook-Pro.local","pid":5130,"level":30,"msg":"content type json received","time":"2022-11-25T04:11:56.918Z","v":0}
+{"name":"my_App","hostname":"Prathyushs-MacBook-Pro.local","pid":5130,"level":30,"msg":"content type json received","time":"2022-11-25T04:11:56.934Z","v":0}
+{"name":"my_App","hostname":"Prathyushs-MacBook-Pro.local","pid":5130,"level":40,"msg":"content type error","time":"2022-11-25T04:11:56.941Z","v":0}
+{"name":"my_App","hostname":"Prathyushs-MacBook-Pro.local","pid":5130,"level":30,"msg":"content type json received","time":"2022-11-25T04:12:02.042Z","v":0}
+{"name":"my_App","hostname":"Prathyushs-MacBook-Pro.local","pid":5130,"level":30,"msg":"content type json received","time":"2022-11-25T04:12:02.052Z","v":0}
+{"name":"my_App","hostname":"Prathyushs-MacBook-Pro.local","pid":5130,"level":30,"msg":"content type json received","time":"2022-11-25T04:12:02.069Z","v":0}
+{"name":"my_App","hostname":"Prathyushs-MacBook-Pro.local","pid":5130,"level":40,"msg":"content type error","time":"2022-11-25T04:12:02.079Z","v":0}
+{"name":"my_App","hostname":"Prathyushs-MacBook-Pro.local","pid":5130,"level":30,"msg":"content type json received","time":"2022-11-25T04:12:05.780Z","v":0}
+{"name":"my_App","hostname":"Prathyushs-MacBook-Pro.local","pid":5130,"level":30,"msg":"content type json received","time":"2022-11-25T04:12:05.791Z","v":0}
+{"name":"my_App","hostname":"Prathyushs-MacBook-Pro.local","pid":5130,"level":30,"msg":"content type json received","time":"2022-11-25T04:12:05.804Z","v":0}
+{"name":"my_App","hostname":"Prathyushs-MacBook-Pro.local","pid":5130,"level":40,"msg":"content type error","time":"2022-11-25T04:12:05.815Z","v":0}
+{"name":"my_App","hostname":"Prathyushs-MacBook-Pro.local","pid":5130,"level":30,"msg":"content type json received","time":"2022-11-25T04:12:09.186Z","v":0}
+{"name":"my_App","hostname":"Prathyushs-MacBook-Pro.local","pid":5130,"level":30,"msg":"content type json received","time":"2022-11-25T04:12:09.197Z","v":0}
+{"name":"my_App","hostname":"Prathyushs-MacBook-Pro.local","pid":5130,"level":30,"msg":"content type json received","time":"2022-11-25T04:12:09.210Z","v":0}
+{"name":"my_App","hostname":"Prathyushs-MacBook-Pro.local","pid":5130,"level":40,"msg":"content type error","time":"2022-11-25T04:12:09.219Z","v":0}
+{"name":"my_App","hostname":"Prathyushs-MacBook-Pro.local","pid":5130,"level":30,"msg":"content type json received","time":"2022-11-25T04:12:21.547Z","v":0}
+{"name":"my_App","hostname":"Prathyushs-MacBook-Pro.local","pid":5130,"level":30,"msg":"content type json received","time":"2022-11-25T04:12:21.557Z","v":0}
+{"name":"my_App","hostname":"Prathyushs-MacBook-Pro.local","pid":5130,"level":30,"msg":"content type json received","time":"2022-11-25T04:12:21.571Z","v":0}
+{"name":"my_App","hostname":"Prathyushs-MacBook-Pro.local","pid":5130,"level":40,"msg":"content type error","time":"2022-11-25T04:12:21.578Z","v":0}
+{"name":"my_App","hostname":"Prathyushs-MacBook-Pro.local","pid":5130,"level":30,"msg":"content type json received","time":"2022-11-25T04:17:06.883Z","v":0}
+{"name":"my_App","hostname":"Prathyushs-MacBook-Pro.local","pid":5130,"level":30,"msg":"content type json received","time":"2022-11-25T04:17:06.896Z","v":0}
+{"name":"my_App","hostname":"Prathyushs-MacBook-Pro.local","pid":5130,"level":30,"msg":"content type json received","time":"2022-11-25T04:17:06.915Z","v":0}
+{"name":"my_App","hostname":"Prathyushs-MacBook-Pro.local","pid":5130,"level":40,"msg":"content type error","time":"2022-11-25T04:17:06.923Z","v":0}
+{"name":"my_App","hostname":"Prathyushs-MacBook-Pro.local","pid":5130,"level":30,"msg":"content type json received","time":"2022-11-25T04:17:07.545Z","v":0}
+{"name":"my_App","hostname":"Prathyushs-MacBook-Pro.local","pid":5130,"level":30,"msg":"content type json received","time":"2022-11-25T04:17:07.558Z","v":0}
+{"name":"my_App","hostname":"Prathyushs-MacBook-Pro.local","pid":5130,"level":30,"msg":"content type json received","time":"2022-11-25T04:17:07.573Z","v":0}
+{"name":"my_App","hostname":"Prathyushs-MacBook-Pro.local","pid":5130,"level":40,"msg":"content type error","time":"2022-11-25T04:17:07.584Z","v":0}
+{"name":"my_App","hostname":"Prathyushs-MacBook-Pro.local","pid":5130,"level":30,"msg":"content type json received","time":"2022-11-25T04:17:15.343Z","v":0}
+{"name":"my_App","hostname":"Prathyushs-MacBook-Pro.local","pid":5130,"level":30,"msg":"content type json received","time":"2022-11-25T04:17:15.374Z","v":0}
+{"name":"my_App","hostname":"Prathyushs-MacBook-Pro.local","pid":5130,"level":30,"msg":"content type json received","time":"2022-11-25T04:17:15.398Z","v":0}
+{"name":"my_App","hostname":"Prathyushs-MacBook-Pro.local","pid":5130,"level":40,"msg":"content type error","time":"2022-11-25T04:17:15.407Z","v":0}
+{"name":"my_App","hostname":"Prathyushs-MacBook-Pro.local","pid":5130,"level":30,"msg":"content type json received","time":"2022-11-25T04:17:22.491Z","v":0}
+{"name":"my_App","hostname":"Prathyushs-MacBook-Pro.local","pid":5130,"level":30,"msg":"content type json received","time":"2022-11-25T04:17:22.506Z","v":0}
+{"name":"my_App","hostname":"Prathyushs-MacBook-Pro.local","pid":5130,"level":30,"msg":"content type json received","time":"2022-11-25T04:17:22.522Z","v":0}
+{"name":"my_App","hostname":"Prathyushs-MacBook-Pro.local","pid":5130,"level":40,"msg":"content type error","time":"2022-11-25T04:17:22.532Z","v":0}
+{"name":"my_App","hostname":"Prathyushs-MacBook-Pro.local","pid":47956,"level":30,"msg":"content type json received","time":"2022-11-25T04:17:41.451Z","v":0}
+{"name":"my_App","hostname":"Prathyushs-MacBook-Pro.local","pid":47956,"level":30,"msg":"content type json received","time":"2022-11-25T04:17:45.023Z","v":0}
+{"name":"my_App","hostname":"Prathyushs-MacBook-Pro.local","pid":47956,"level":30,"msg":"content type json received","time":"2022-11-25T04:18:06.951Z","v":0}
+{"name":"my_App","hostname":"Prathyushs-MacBook-Pro.local","pid":47956,"level":30,"msg":"content type json received","time":"2022-11-25T04:18:13.404Z","v":0}
+{"name":"my_App","hostname":"Prathyushs-MacBook-Pro.local","pid":47956,"level":30,"msg":"content type json received","time":"2022-11-25T04:18:24.367Z","v":0}
+{"name":"my_App","hostname":"Prathyushs-MacBook-Pro.local","pid":47956,"level":30,"msg":"content type json received","time":"2022-11-25T04:18:33.210Z","v":0}
+{"name":"my_App","hostname":"Prathyushs-MacBook-Pro.local","pid":47956,"level":30,"msg":"content type json received","time":"2022-11-25T04:18:40.093Z","v":0}
+{"name":"my_App","hostname":"Prathyushs-MacBook-Pro.local","pid":47956,"level":30,"msg":"content type json received","time":"2022-11-25T04:18:56.846Z","v":0}
+{"name":"my_App","hostname":"Prathyushs-MacBook-Pro.local","pid":48237,"level":30,"msg":"content type json received","time":"2022-11-25T04:23:41.198Z","v":0}
+{"name":"my_App","hostname":"Prathyushs-MacBook-Pro.local","pid":48237,"level":30,"msg":"content type json received","time":"2022-11-25T04:23:41.215Z","v":0}
+{"name":"my_App","hostname":"Prathyushs-MacBook-Pro.local","pid":48237,"level":30,"msg":"content type json received","time":"2022-11-25T04:23:41.231Z","v":0}
+{"name":"my_App","hostname":"Prathyushs-MacBook-Pro.local","pid":48237,"level":40,"msg":"content type error","time":"2022-11-25T04:23:41.241Z","v":0}
+{"name":"my_App","hostname":"Prathyushs-MacBook-Pro.local","pid":48237,"level":30,"msg":"content type json received","time":"2022-11-25T04:45:19.082Z","v":0}
+{"name":"my_App","hostname":"Prathyushs-MacBook-Pro.local","pid":48237,"level":30,"msg":"content type json received","time":"2022-11-25T04:45:19.092Z","v":0}
+{"name":"my_App","hostname":"Prathyushs-MacBook-Pro.local","pid":48237,"level":30,"msg":"content type json received","time":"2022-11-25T04:45:19.110Z","v":0}
+{"name":"my_App","hostname":"Prathyushs-MacBook-Pro.local","pid":48237,"level":40,"msg":"content type error","time":"2022-11-25T04:45:19.119Z","v":0}
+{"name":"my_App","hostname":"Prathyushs-MacBook-Pro.local","pid":48237,"level":30,"msg":"content type json received","time":"2022-11-25T04:52:24.989Z","v":0}
+{"name":"my_App","hostname":"Prathyushs-MacBook-Pro.local","pid":48237,"level":30,"msg":"content type json received","time":"2022-11-25T04:52:24.999Z","v":0}
+{"name":"my_App","hostname":"Prathyushs-MacBook-Pro.local","pid":48237,"level":30,"msg":"content type json received","time":"2022-11-25T04:52:25.016Z","v":0}
+{"name":"my_App","hostname":"Prathyushs-MacBook-Pro.local","pid":48237,"level":40,"msg":"content type error","time":"2022-11-25T04:52:25.026Z","v":0}
+{"name":"my_App","hostname":"Prathyushs-MacBook-Pro.local","pid":48237,"level":30,"msg":"content type json received","time":"2022-11-25T04:52:32.598Z","v":0}
+{"name":"my_App","hostname":"Prathyushs-MacBook-Pro.local","pid":48237,"level":30,"msg":"content type json received","time":"2022-11-25T04:52:32.608Z","v":0}
+{"name":"my_App","hostname":"Prathyushs-MacBook-Pro.local","pid":48237,"level":30,"msg":"content type json received","time":"2022-11-25T04:52:32.626Z","v":0}
+{"name":"my_App","hostname":"Prathyushs-MacBook-Pro.local","pid":48237,"level":40,"msg":"content type error","time":"2022-11-25T04:52:32.637Z","v":0}
+{"name":"my_App","hostname":"Prathyushs-MacBook-Pro.local","pid":48237,"level":30,"msg":"content type json received","time":"2022-11-25T06:30:21.534Z","v":0}
+{"name":"my_App","hostname":"Prathyushs-MacBook-Pro.local","pid":48237,"level":30,"msg":"content type json received","time":"2022-11-25T06:30:21.544Z","v":0}
+{"name":"my_App","hostname":"Prathyushs-MacBook-Pro.local","pid":48237,"level":30,"msg":"content type json received","time":"2022-11-25T06:30:21.560Z","v":0}
+{"name":"my_App","hostname":"Prathyushs-MacBook-Pro.local","pid":48237,"level":40,"msg":"content type error","time":"2022-11-25T06:30:21.567Z","v":0}
+{"name":"my_App","hostname":"Prathyushs-MacBook-Pro.local","pid":48237,"level":30,"msg":"content type json received","time":"2022-11-25T06:30:22.506Z","v":0}
+{"name":"my_App","hostname":"Prathyushs-MacBook-Pro.local","pid":48237,"level":30,"msg":"content type json received","time":"2022-11-25T06:30:22.515Z","v":0}
+{"name":"my_App","hostname":"Prathyushs-MacBook-Pro.local","pid":48237,"level":30,"msg":"content type json received","time":"2022-11-25T06:30:22.531Z","v":0}
+{"name":"my_App","hostname":"Prathyushs-MacBook-Pro.local","pid":48237,"level":40,"msg":"content type error","time":"2022-11-25T06:30:22.539Z","v":0}
+{"name":"my_App","hostname":"Prathyushs-MacBook-Pro.local","pid":48237,"level":30,"msg":"content type json received","time":"2022-11-25T06:43:00.516Z","v":0}
+{"name":"my_App","hostname":"Prathyushs-MacBook-Pro.local","pid":48237,"level":30,"msg":"content type json received","time":"2022-11-25T06:43:00.528Z","v":0}
+{"name":"my_App","hostname":"Prathyushs-MacBook-Pro.local","pid":48237,"level":30,"msg":"content type json received","time":"2022-11-25T06:43:00.542Z","v":0}
+{"name":"my_App","hostname":"Prathyushs-MacBook-Pro.local","pid":48237,"level":40,"msg":"content type error","time":"2022-11-25T06:43:00.552Z","v":0}
+{"name":"my_App","hostname":"Prathyushs-MacBook-Pro.local","pid":48237,"level":30,"msg":"content type json received","time":"2022-11-25T06:43:23.691Z","v":0}
+{"name":"my_App","hostname":"Prathyushs-MacBook-Pro.local","pid":48237,"level":30,"msg":"content type json received","time":"2022-11-25T06:43:23.700Z","v":0}
+{"name":"my_App","hostname":"Prathyushs-MacBook-Pro.local","pid":48237,"level":30,"msg":"content type json received","time":"2022-11-25T06:43:23.718Z","v":0}
+{"name":"my_App","hostname":"Prathyushs-MacBook-Pro.local","pid":48237,"level":40,"msg":"content type error","time":"2022-11-25T06:43:23.726Z","v":0}
+{"name":"my_App","hostname":"Prathyushs-MacBook-Pro.local","pid":51503,"level":30,"msg":"content type json received","time":"2022-11-25T06:44:27.692Z","v":0}
+{"name":"my_App","hostname":"Prathyushs-MacBook-Pro.local","pid":51503,"level":30,"msg":"content type json received","time":"2022-11-25T06:44:27.708Z","v":0}
+{"name":"my_App","hostname":"Prathyushs-MacBook-Pro.local","pid":51503,"level":30,"msg":"content type json received","time":"2022-11-25T06:44:27.725Z","v":0}
+{"name":"my_App","hostname":"Prathyushs-MacBook-Pro.local","pid":51503,"level":40,"msg":"content type error","time":"2022-11-25T06:44:27.734Z","v":0}
+{"name":"my_App","hostname":"Prathyushs-MacBook-Pro.local","pid":51503,"level":30,"msg":"content type json received","time":"2022-11-25T06:44:43.645Z","v":0}
+{"name":"my_App","hostname":"Prathyushs-MacBook-Pro.local","pid":51503,"level":30,"msg":"content type json received","time":"2022-11-25T06:44:43.656Z","v":0}
+{"name":"my_App","hostname":"Prathyushs-MacBook-Pro.local","pid":51503,"level":30,"msg":"content type json received","time":"2022-11-25T06:44:43.672Z","v":0}
+{"name":"my_App","hostname":"Prathyushs-MacBook-Pro.local","pid":51503,"level":40,"msg":"content type error","time":"2022-11-25T06:44:43.682Z","v":0}
+{"name":"my_App","hostname":"Prathyushs-MacBook-Pro.local","pid":51503,"level":30,"msg":"content type json received","time":"2022-11-25T06:44:57.422Z","v":0}
+{"name":"my_App","hostname":"Prathyushs-MacBook-Pro.local","pid":51503,"level":30,"msg":"content type json received","time":"2022-11-25T06:44:57.432Z","v":0}
+{"name":"my_App","hostname":"Prathyushs-MacBook-Pro.local","pid":51503,"level":30,"msg":"content type json received","time":"2022-11-25T06:44:57.448Z","v":0}
+{"name":"my_App","hostname":"Prathyushs-MacBook-Pro.local","pid":51503,"level":40,"msg":"content type error","time":"2022-11-25T06:44:57.455Z","v":0}
+{"name":"my_App","hostname":"Prathyushs-MacBook-Pro.local","pid":51503,"level":30,"msg":"content type json received","time":"2022-11-25T06:45:09.411Z","v":0}
+{"name":"my_App","hostname":"Prathyushs-MacBook-Pro.local","pid":51503,"level":30,"msg":"content type json received","time":"2022-11-25T06:45:09.421Z","v":0}
+{"name":"my_App","hostname":"Prathyushs-MacBook-Pro.local","pid":51503,"level":30,"msg":"content type json received","time":"2022-11-25T06:45:09.438Z","v":0}
+{"name":"my_App","hostname":"Prathyushs-MacBook-Pro.local","pid":51503,"level":40,"msg":"content type error","time":"2022-11-25T06:45:09.446Z","v":0}
+{"name":"my_App","hostname":"Prathyushs-MacBook-Pro.local","pid":51503,"level":30,"msg":"content type json received","time":"2022-11-25T06:45:42.246Z","v":0}
+{"name":"my_App","hostname":"Prathyushs-MacBook-Pro.local","pid":51503,"level":30,"msg":"content type json received","time":"2022-11-25T06:45:42.257Z","v":0}
+{"name":"my_App","hostname":"Prathyushs-MacBook-Pro.local","pid":51503,"level":30,"msg":"content type json received","time":"2022-11-25T06:45:42.276Z","v":0}
+{"name":"my_App","hostname":"Prathyushs-MacBook-Pro.local","pid":51503,"level":40,"msg":"content type error","time":"2022-11-25T06:45:42.284Z","v":0}
+{"name":"my_App","hostname":"Prathyushs-MacBook-Pro.local","pid":51835,"level":30,"msg":"content type json received","time":"2022-11-25T06:46:03.558Z","v":0}
+{"name":"my_App","hostname":"Prathyushs-MacBook-Pro.local","pid":51835,"level":30,"msg":"content type json received","time":"2022-11-25T06:46:03.575Z","v":0}
+{"name":"my_App","hostname":"Prathyushs-MacBook-Pro.local","pid":51835,"level":30,"msg":"content type json received","time":"2022-11-25T06:46:03.593Z","v":0}
+{"name":"my_App","hostname":"Prathyushs-MacBook-Pro.local","pid":51835,"level":40,"msg":"content type error","time":"2022-11-25T06:46:03.601Z","v":0}
+{"name":"my_App","hostname":"Prathyushs-MacBook-Pro.local","pid":51835,"level":30,"msg":"content type json received","time":"2022-11-25T06:46:25.238Z","v":0}
+{"name":"my_App","hostname":"Prathyushs-MacBook-Pro.local","pid":51835,"level":30,"msg":"content type json received","time":"2022-11-25T06:46:25.250Z","v":0}
+{"name":"my_App","hostname":"Prathyushs-MacBook-Pro.local","pid":51835,"level":30,"msg":"content type json received","time":"2022-11-25T06:46:25.265Z","v":0}
+{"name":"my_App","hostname":"Prathyushs-MacBook-Pro.local","pid":51835,"level":40,"msg":"content type error","time":"2022-11-25T06:46:25.275Z","v":0}
+{"name":"my_App","hostname":"Prathyushs-MacBook-Pro.local","pid":51835,"level":30,"msg":"content type json received","time":"2022-11-25T06:48:18.529Z","v":0}
+{"name":"my_App","hostname":"Prathyushs-MacBook-Pro.local","pid":51835,"level":30,"msg":"content type json received","time":"2022-11-25T06:48:18.542Z","v":0}
+{"name":"my_App","hostname":"Prathyushs-MacBook-Pro.local","pid":51835,"level":30,"msg":"content type json received","time":"2022-11-25T06:48:18.555Z","v":0}
+{"name":"my_App","hostname":"Prathyushs-MacBook-Pro.local","pid":51835,"level":40,"msg":"content type error","time":"2022-11-25T06:48:18.565Z","v":0}
+{"name":"my_App","hostname":"Prathyushs-MacBook-Pro.local","pid":51835,"level":30,"msg":"content type json received","time":"2022-11-25T06:48:19.826Z","v":0}
+{"name":"my_App","hostname":"Prathyushs-MacBook-Pro.local","pid":51835,"level":30,"msg":"content type json received","time":"2022-11-25T06:48:19.835Z","v":0}
+{"name":"my_App","hostname":"Prathyushs-MacBook-Pro.local","pid":51835,"level":30,"msg":"content type json received","time":"2022-11-25T06:48:19.851Z","v":0}
+{"name":"my_App","hostname":"Prathyushs-MacBook-Pro.local","pid":51835,"level":40,"msg":"content type error","time":"2022-11-25T06:48:19.859Z","v":0}
+{"name":"my_App","hostname":"Prathyushs-MacBook-Pro.local","pid":51835,"level":30,"msg":"content type json received","time":"2022-11-25T06:48:28.768Z","v":0}
+{"name":"my_App","hostname":"Prathyushs-MacBook-Pro.local","pid":51835,"level":30,"msg":"content type json received","time":"2022-11-25T06:48:28.779Z","v":0}
+{"name":"my_App","hostname":"Prathyushs-MacBook-Pro.local","pid":51835,"level":30,"msg":"content type json received","time":"2022-11-25T06:48:28.795Z","v":0}
+{"name":"my_App","hostname":"Prathyushs-MacBook-Pro.local","pid":51835,"level":40,"msg":"content type error","time":"2022-11-25T06:48:28.805Z","v":0}
+{"name":"my_App","hostname":"Prathyushs-MacBook-Pro.local","pid":51835,"level":30,"msg":"content type json received","time":"2022-11-25T06:48:40.824Z","v":0}
+{"name":"my_App","hostname":"Prathyushs-MacBook-Pro.local","pid":51835,"level":30,"msg":"content type json received","time":"2022-11-25T06:48:40.836Z","v":0}
+{"name":"my_App","hostname":"Prathyushs-MacBook-Pro.local","pid":51835,"level":30,"msg":"content type json received","time":"2022-11-25T06:48:40.848Z","v":0}
+{"name":"my_App","hostname":"Prathyushs-MacBook-Pro.local","pid":51835,"level":40,"msg":"content type error","time":"2022-11-25T06:48:40.858Z","v":0}
+{"name":"my_App","hostname":"Prathyushs-MacBook-Pro.local","pid":51835,"level":30,"msg":"content type json received","time":"2022-11-25T06:48:54.285Z","v":0}
+{"name":"my_App","hostname":"Prathyushs-MacBook-Pro.local","pid":51835,"level":30,"msg":"content type json received","time":"2022-11-25T06:48:54.306Z","v":0}
+{"name":"my_App","hostname":"Prathyushs-MacBook-Pro.local","pid":51835,"level":30,"msg":"content type json received","time":"2022-11-25T06:48:54.338Z","v":0}
+{"name":"my_App","hostname":"Prathyushs-MacBook-Pro.local","pid":51835,"level":40,"msg":"content type error","time":"2022-11-25T06:48:54.357Z","v":0}
+{"name":"my_App","hostname":"Prathyushs-MacBook-Pro.local","pid":51835,"level":30,"msg":"content type json received","time":"2022-11-25T06:48:55.714Z","v":0}
+{"name":"my_App","hostname":"Prathyushs-MacBook-Pro.local","pid":51835,"level":30,"msg":"content type json received","time":"2022-11-25T06:48:55.735Z","v":0}
+{"name":"my_App","hostname":"Prathyushs-MacBook-Pro.local","pid":51835,"level":30,"msg":"content type json received","time":"2022-11-25T06:48:55.766Z","v":0}
+{"name":"my_App","hostname":"Prathyushs-MacBook-Pro.local","pid":51835,"level":40,"msg":"content type error","time":"2022-11-25T06:48:55.786Z","v":0}
+{"name":"my_App","hostname":"Prathyushs-MacBook-Pro.local","pid":51835,"level":30,"msg":"content type json received","time":"2022-11-25T06:49:14.862Z","v":0}
+{"name":"my_App","hostname":"Prathyushs-MacBook-Pro.local","pid":51835,"level":30,"msg":"content type json received","time":"2022-11-25T06:49:14.873Z","v":0}
+{"name":"my_App","hostname":"Prathyushs-MacBook-Pro.local","pid":51835,"level":30,"msg":"content type json received","time":"2022-11-25T06:49:14.889Z","v":0}
+{"name":"my_App","hostname":"Prathyushs-MacBook-Pro.local","pid":51835,"level":40,"msg":"content type error","time":"2022-11-25T06:49:14.897Z","v":0}
+{"name":"my_App","hostname":"Prathyushs-MacBook-Pro.local","pid":51835,"level":30,"msg":"content type json received","time":"2022-11-25T06:49:20.597Z","v":0}
+{"name":"my_App","hostname":"Prathyushs-MacBook-Pro.local","pid":51835,"level":30,"msg":"content type json received","time":"2022-11-25T06:49:20.607Z","v":0}
+{"name":"my_App","hostname":"Prathyushs-MacBook-Pro.local","pid":51835,"level":30,"msg":"content type json received","time":"2022-11-25T06:49:20.626Z","v":0}
+{"name":"my_App","hostname":"Prathyushs-MacBook-Pro.local","pid":51835,"level":40,"msg":"content type error","time":"2022-11-25T06:49:20.639Z","v":0}
+{"name":"my_App","hostname":"Prathyushs-MacBook-Pro.local","pid":54591,"level":30,"msg":"content type json received","time":"2022-11-25T06:50:06.285Z","v":0}
+{"name":"my_App","hostname":"Prathyushs-MacBook-Pro.local","pid":54591,"level":30,"msg":"content type json received","time":"2022-11-25T06:50:06.302Z","v":0}
+{"name":"my_App","hostname":"Prathyushs-MacBook-Pro.local","pid":54591,"level":30,"msg":"content type json received","time":"2022-11-25T06:50:06.320Z","v":0}
+{"name":"my_App","hostname":"Prathyushs-MacBook-Pro.local","pid":54591,"level":40,"msg":"content type error","time":"2022-11-25T06:50:06.329Z","v":0}
+{"name":"my_App","hostname":"Prathyushs-MacBook-Pro.local","pid":54591,"level":30,"msg":"content type json received","time":"2022-11-25T06:51:06.862Z","v":0}
+{"name":"my_App","hostname":"Prathyushs-MacBook-Pro.local","pid":54591,"level":30,"msg":"content type json received","time":"2022-11-25T06:51:06.873Z","v":0}
+{"name":"my_App","hostname":"Prathyushs-MacBook-Pro.local","pid":54591,"level":30,"msg":"content type json received","time":"2022-11-25T06:51:06.888Z","v":0}
+{"name":"my_App","hostname":"Prathyushs-MacBook-Pro.local","pid":54591,"level":40,"msg":"content type error","time":"2022-11-25T06:51:06.897Z","v":0}
+{"name":"my_App","hostname":"Prathyushs-MacBook-Pro.local","pid":54964,"level":30,"msg":"content type json received","time":"2022-11-25T06:51:27.116Z","v":0}
+{"name":"my_App","hostname":"Prathyushs-MacBook-Pro.local","pid":54964,"level":30,"msg":"content type json received","time":"2022-11-25T06:51:32.471Z","v":0}
+{"name":"my_App","hostname":"Prathyushs-MacBook-Pro.local","pid":54591,"level":30,"msg":"content type json received","time":"2022-11-25T07:21:13.794Z","v":0}
+{"name":"my_App","hostname":"Prathyushs-MacBook-Pro.local","pid":54591,"level":30,"msg":"content type json received","time":"2022-11-25T07:21:13.808Z","v":0}
+{"name":"my_App","hostname":"Prathyushs-MacBook-Pro.local","pid":54591,"level":30,"msg":"content type json received","time":"2022-11-25T07:21:13.824Z","v":0}
+{"name":"my_App","hostname":"Prathyushs-MacBook-Pro.local","pid":54591,"level":40,"msg":"content type error","time":"2022-11-25T07:21:13.836Z","v":0}
+{"name":"my_App","hostname":"Prathyushs-MacBook-Pro.local","pid":54591,"level":30,"msg":"content type json received","time":"2022-11-25T07:21:19.915Z","v":0}
+{"name":"my_App","hostname":"Prathyushs-MacBook-Pro.local","pid":54591,"level":30,"msg":"content type json received","time":"2022-11-25T07:21:19.925Z","v":0}
+{"name":"my_App","hostname":"Prathyushs-MacBook-Pro.local","pid":54591,"level":30,"msg":"content type json received","time":"2022-11-25T07:21:19.940Z","v":0}
+{"name":"my_App","hostname":"Prathyushs-MacBook-Pro.local","pid":54591,"level":40,"msg":"content type error","time":"2022-11-25T07:21:19.950Z","v":0}

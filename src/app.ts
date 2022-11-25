@@ -1,6 +1,6 @@
 const express = require("express");
-const UserControllerInApp = require("./modules/user/controller/userOperations.controller");
-
+//const UserControllerInApp = require("./modules/user/controller/userOperations.controller");
+const userRouter=require("./Routes/userRoutes")
 //Logger section
 const bunyan=require("bunyan")
 const log=bunyan.createLogger({name:"my_App",streams: [
@@ -79,20 +79,11 @@ function myApp() {
     }
   );
 //middleware ends.
-  
-  
-  //requests
-  
-  //get all users using class
-  app.get("/",UserControllerInApp.getUserWithUserController);
-  
 
-  //get single user using class
-  app.get("/:id",UserControllerInApp.getSingleUserWithUserController)
+//request middleware
+app.use("/",userRouter)
 
 
-  //post using class
-  app.post("/postpersoninfo", UserControllerInApp.createUserFromUserController);
 
   return app;
 }
