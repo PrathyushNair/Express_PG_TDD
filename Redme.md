@@ -93,4 +93,17 @@ export default config;
 
 
 
+LINTING
+1)Insatll the lint extension in Vs Code
+2) npm i --save-dev eslint
+3) eslint --init / npm init @eslint/config / ./node_modules/.bin/eslint --init
+4)Answer all the questions.
+5)Write this in package.json's script:   "lint":"eslint . --ext .ts --fix"
+6)Create file .eslintignore file and place all the files you want lint to ignore in this file.
+7)add "project": ["path of your tsconfig file"] in the parserOptions object in the .eslintrc.json file.
+8) Run the lint command: npm run lint
+9) Look at the errors feel the pain and solve it!!!
 
+SNYK
+1) Authentication: snyk auth
+2) Snapshot: snyk monitor

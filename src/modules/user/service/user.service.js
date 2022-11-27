@@ -8,7 +8,8 @@ var __awaiter = (this && this.__awaiter) || function (thisArg, _arguments, P, ge
         step((generator = generator.apply(thisArg, _arguments || [])).next());
     });
 };
-const UserRepositoryInService = require("../repository/user.repository");
+const UserRepositoryInService = require('../repository/user.repository');
+const bcrypt = require('bcrypt');
 class UserService {
     getUserWithService(limit, sort) {
         return __awaiter(this, void 0, void 0, function* () {
@@ -22,7 +23,20 @@ class UserService {
     }
     createFromUserService(personDetails) {
         return __awaiter(this, void 0, void 0, function* () {
-            return yield UserRepositoryInService.createUserInDB(personDetails);
+            const pass = yield bcrypt.hash(personDetails.password, 10);
+            const personDetailsUpdated = {
+                name: personDetails.name,
+                gender: personDetails.gender,
+                email: personDetails.email.toLowerCase(),
+                password: pass,
+                age: personDetails.age
+            };
+            // if(false)
+            // {
+            //     return await UserRepositoryInService.createUserInDB(personDetails)
+            // }
+            return yield UserRepositoryInService.createUserInDB(personDetailsUpdated);
+            // return []
         });
     }
 }

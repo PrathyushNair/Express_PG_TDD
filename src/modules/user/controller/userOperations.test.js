@@ -5,7 +5,7 @@ const sinon = require("sinon");
 const knexCommands = require("../repository/user.repository");
 
 
-
+//testing for get data
 describe("GET /", () => {
   let query;
   let dataForTest
@@ -26,23 +26,7 @@ describe("GET /", () => {
         email: "us2@gmail.com",
         password: "qwerty",
         age: 24,
-      },
-      {
-        id: 51,
-        name: "user4",
-        gender: "female",
-        email: "us2@gmail.com",
-        password: "qwerty",
-        age: 24,
-      },
-      {
-        id: 1,
-        name: "user1",
-        gender: "male",
-        email: "us1@gmail.com",
-        password: "qwertyabc",
-        age: 34,
-      },
+      }
     ]
     query = sinon.stub(knexCommands, "getAllPeopleFromDB").resolves([
       {
@@ -60,23 +44,7 @@ describe("GET /", () => {
         email: "us2@gmail.com",
         password: "qwerty",
         age: 24,
-      },
-      {
-        id: 51,
-        name: "user4",
-        gender: "female",
-        email: "us2@gmail.com",
-        password: "qwerty",
-        age: 24,
-      },
-      {
-        id: 1,
-        name: "user1",
-        gender: "male",
-        email: "us1@gmail.com",
-        password: "qwertyabc",
-        age: 34,
-      },
+      }
     ]);
   });
   afterEach(() => {
@@ -91,8 +59,16 @@ describe("GET /", () => {
     let response = await request(appForTest).get("/");
     expect(response.body).toEqual({ message: "successful", data: dataForTest });
   });
+
+  test.only("checking for limit and sort parameter",async()=>{
+    let response = await request(appForTest).get("/?limit=2&sort=desc");
+    expect(response.body.data.length).toBe(2)
+  })
+  
 });
 
+
+//testing for posting 
 describe("post /postpersonInfo", () => {
   let query;
   beforeEach(() => {
@@ -110,6 +86,9 @@ describe("post /postpersonInfo", () => {
   afterEach(() => {
     query.restore();
   });
+
+  //test1
+
   test("getting 201 status for successful post", async () => {
     let response = await request(appForTest).post("/postpersoninfo").send({
       name: "user100",
@@ -121,6 +100,9 @@ describe("post /postpersonInfo", () => {
     expect(response.statusCode).toBe(200);
     expect(response.body).toEqual({ message: "successful posting", data: [] });
   });
+
+
+  //test2
   test("gerring error message for posting non json content", async () => {
     let response = await request(appForTest)
       .post("/postpersoninfo")
@@ -130,4 +112,22 @@ describe("post /postpersonInfo", () => {
     expect(response.status).toBe(500);
     expect(response.body).toEqual({ error: "internal server error" });
   });
+
+
+
+  //test3
+  test("data types should be as per defined schema",async()=>{
+    let response = await request(appForTest).post("/postpersoninfo").send({
+      name: 356,
+      gender: "male",
+      email: 56,
+      password: "qwerty456",
+      age: 56,
+    });
+    expect(response.status).toBe(500)
+    expect(response.body).toEqual({message:"unsuccessful posting"})
+  
+    
+
+  })
 });

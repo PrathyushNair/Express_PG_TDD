@@ -12,20 +12,20 @@ Object.defineProperty(exports, "__esModule", { value: true });
 exports.down = exports.up = void 0;
 function up(knex) {
     return __awaiter(this, void 0, void 0, function* () {
-        return knex.schema.createTable('people', (table) => {
+        return (yield knex.schema.createTable('people', (table) => {
             table.increments();
             table.string('name').notNullable().unique();
             table.string('gender').notNullable();
-            table.string('email').notNullable();
+            table.string('email').notNullable().unique;
             table.string('password').notNullable();
             table.integer('age').notNullable();
-        });
+        }));
     });
 }
 exports.up = up;
 function down(knex) {
     return __awaiter(this, void 0, void 0, function* () {
-        return knex.schema.dropTable('people');
+        return yield knex.schema.dropTable('people');
     });
 }
 exports.down = down;

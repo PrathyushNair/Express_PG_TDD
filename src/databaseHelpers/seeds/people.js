@@ -13,10 +13,10 @@ exports.seed = void 0;
 function seed(knex) {
     return __awaiter(this, void 0, void 0, function* () {
         // Deletes ALL existing entries
-        yield knex("people").del();
+        yield knex('people').del();
         // Inserts seed entries
-        yield knex("people").insert([
-            { name: "user1", gender: "male", email: "us1@gmail.com", password: "qwertyabc", age: 34 }
+        yield knex('people').insert([
+            { name: 'user1', gender: 'male', email: 'us1@gmail.com', password: 'qwertyabc', age: 34 }
         ]);
     });
 }

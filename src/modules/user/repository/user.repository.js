@@ -17,7 +17,7 @@ class UserRepository {
     }
     getSinglePersonFromDB(personID) {
         return __awaiter(this, void 0, void 0, function* () {
-            return db.select('*').from('people').where({ 'id': personID }).returning('*');
+            return db.select('*').from('people').where({ id: personID }).returning('*');
         });
     }
     createUserInDB(personDetails) {
