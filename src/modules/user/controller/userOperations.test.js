@@ -60,7 +60,7 @@ describe("GET /", () => {
     expect(response.body).toEqual({ message: "successful", data: dataForTest });
   });
 
-  test.only("checking for limit and sort parameter",async()=>{
+  test("checking for limit and sort parameter",async()=>{
     let response = await request(appForTest).get("/?limit=2&sort=desc");
     expect(response.body.data.length).toBe(2)
   })

@@ -96,7 +96,7 @@ export default config;
 LINTING
 1)Insatll the lint extension in Vs Code
 2) npm i --save-dev eslint
-3) eslint --init / npm init @eslint/config / ./node_modules/.bin/eslint --init
+3) eslint --init   OR    npm init @eslint/config   OR    ./node_modules/.bin/eslint --init
 4)Answer all the questions.
 5)Write this in package.json's script:   "lint":"eslint . --ext .ts --fix"
 6)Create file .eslintignore file and place all the files you want lint to ignore in this file.

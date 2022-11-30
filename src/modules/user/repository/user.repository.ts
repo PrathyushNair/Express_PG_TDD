@@ -21,4 +21,5 @@ class UserRepository {
     return db('people').insert(personDetails).returning('*')
   }
 }
+
 module.exports = new UserRepository()
